@@ -122,3 +122,27 @@ margin: 0px;
     bottom: 18vmin;
   }
 }
+
+@media only screen and (max-width: 600px) {
+
+  .container-title{
+    width: 100%;
+    max-width: 100%;
+  }
+  .spaceship{
+    display: none;
+  }
+.details{
+  width: 100%;
+  top: 68%!important;
+}
+
+.mars{
+  height: 50vmin;
+}
+
+.title{
+  margin-top: 45vmin!important;
+}
+
+}
